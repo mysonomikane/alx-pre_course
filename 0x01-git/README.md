@@ -1,4 +1,5 @@
 # 0x01. Git
+
 ## Resources
 ### Read or watch:
 - [Resources to learn Git](https://intranet.alxswe.com/rltoken/EC5rb6yWBWllPB-T8rd0SQ)
